@@ -4,7 +4,7 @@ function About() {
       <h2>About Me</h2>
       <div className="about-content">
         <img
-          src="/profile.jpg"
+          src="/Profile.jpg"
           alt="Onkar Shinde"
           className="profile-image"
         />
